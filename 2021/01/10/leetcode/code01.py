@@ -12,7 +12,8 @@ class Solution:
             result += min(left,right)
             result %= 10**9 + 7
         return result 
-
+        
+# 
 class Solution:
     def createSortedArray(self, A):
         m = max(A)
