@@ -49,6 +49,7 @@ function originalDigits(s: string): string {
 };
 
 
+// 152ms -> 124ms
 // each one -> many 
 function originalDigits(s: string): string {
     const disitToString = [
